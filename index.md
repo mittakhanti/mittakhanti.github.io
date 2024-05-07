@@ -1,6 +1,6 @@
 ## Hello world
 
-Some text so I can use * Sidenote test *{:.sidenote} and whatnot.
+Some text for testing.
 
 |Table|Test|
 |-|-|
