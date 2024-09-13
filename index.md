@@ -7,4 +7,4 @@ Some text for testing.
 |a|1|
 |b|2|
 
-This is from local :3 💗 💚 💛
+This is from local :3 💗 💚 💛 :3
