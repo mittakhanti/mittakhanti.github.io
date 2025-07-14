@@ -1,6 +1,6 @@
 ## Hello world
 
-[A.K. Warder Into to Pali](akwarder.md)
+[A.K. Warder Into to Pali](akwarder_intro_test_tufte.html)
 
 Some text for testing.
 
