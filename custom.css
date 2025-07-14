@@ -1,0 +1,9 @@
+/* custom.css */
+body, html {
+  font-family: "Open Sans", "Charis SIL", "Gentium Plus", Georgia, serif;
+}
+
+/* Optional: adjust font for side notes and code */
+.sidenote, .margin-note, code {
+  font-family: "Noto Serif", Georgia, serif;
+}
