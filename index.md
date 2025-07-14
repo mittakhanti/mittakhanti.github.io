@@ -1,6 +1,6 @@
 ## Hello world
 
-[A.K. Warder Into to Pali](awkwarder.md)
+[A.K. Warder Into to Pali](akwarder.md)
 
 Some text for testing.
 
